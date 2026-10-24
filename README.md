@@ -2,7 +2,7 @@
 
 [![Core](https://github.com/sawai-naoki-portfolio/vector/actions/workflows/core.yml/badge.svg)](https://github.com/sawai-naoki-portfolio/vector/actions/workflows/core.yml)
 
-> 澤井直輝のポートフォリオ作品のひとつです（[作品一覧へ](https://github.com/sawai-naoki-portfolio/Portfolio)）。
+> 澤井直輝のポートフォリオ作品のひとつです（[作品一覧へ](https://github.com/sawai-naoki-portfolio)）。
 
 **確率をすべて公開した、正直なカジノ。** 既存のゲームの焼き直しではない、10のオリジナルのカジノゲームと、
 そのカジノの中を歩いてフロアの主たちに挑む **ストーリーモード（カジノ RPG）** を収録しています。
