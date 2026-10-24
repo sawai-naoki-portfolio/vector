@@ -41,7 +41,7 @@ dorachan121（以下「開発者」）は、Android 向けゲームアプリ「V
 
 本アプリやこのポリシーについてのお問い合わせは、次のページからお送りください。
 
-https://github.com/dorachan121/vector/issues
+https://github.com/sawai-naoki-portfolio/vector/issues
 
 ---
 
@@ -52,4 +52,4 @@ Effective: October 22, 2026
 VECTOR ("the app") does **not collect, store remotely, or share any personal or device data**. It has no accounts, ads, analytics, crash reporting, in-app purchases, or network access.
 Game progress (play-money balance, level, cleared floors, missions, items, settings) is saved **only on your device** and is deleted when you uninstall the app.
 Chips in the app are play money only and cannot be exchanged for cash or prizes. The app is not directed at children.
-Changes to this policy will be posted on this page. Contact: https://github.com/dorachan121/vector/issues
+Changes to this policy will be posted on this page. Contact: https://github.com/sawai-naoki-portfolio/vector/issues

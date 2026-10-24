@@ -59,7 +59,7 @@ $env:VECTOR_KEY_ALIAS = "upload"
 
 | 項目 | 答え |
 |---|---|
-| プライバシーポリシー | `https://github.com/dorachan121/vector/blob/master/Store/privacy-policy.md` |
+| プライバシーポリシー | `https://github.com/sawai-naoki-portfolio/vector/blob/main/Store/privacy-policy.md` |
 | 広告 | 広告を含まない |
 | アプリのアクセス権 | すべての機能を制限なしで利用できる |
 | コンテンツのレーティング | 質問票で「シミュレーションのギャンブル」があると答える（本物のお金は賭けない・景品はない・ユーザー同士のやりとりはない・デジタル購入はない） |

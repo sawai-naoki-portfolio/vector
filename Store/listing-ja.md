@@ -60,8 +60,8 @@ VECTOR CASINO RESORT は、既存のゲームの焼き直しではない 10 種�
 ## 連絡先
 
 - メールアドレス：**Play Console では必須で、ストアに公開されます。** 専用のアドレスを用意すると安心です
-- ウェブサイト（任意）：https://github.com/dorachan121/vector
-- プライバシーポリシー：https://github.com/dorachan121/vector/blob/master/Store/privacy-policy.md
+- ウェブサイト（任意）：https://github.com/sawai-naoki-portfolio/vector
+- プライバシーポリシー：https://github.com/sawai-naoki-portfolio/vector/blob/main/Store/privacy-policy.md
 
 ## 画像
 
